@@ -1,0 +1,40 @@
+1) Different types of data types in JS.
+2) Explain Hoisting in JS.
+3) Difference between let, var and const.
+4) Is JavaScript statically or dynamically typed language? Why?
+5) Explain pass by value and pass by reference.
+6) Explain Higher Order Function in JS.
+7) Explain "this" keyword.
+8) Explain call, bind, and apply method.
+9) Difference between Arrow function and Traditional (Normal) function.
+10) What is the difference between function declaration and function expression?
+11) What is Event Loop in JS?
+12) What are Promises in JS?
+13) How many states are there in Promise? Explain each.
+14) Methods of Promises.
+15) What is Async/Await in JS?
+16) What are Closures?
+17) What are states of Promise? Explain → pending, fulfilled, rejected.
+18) What is Promise chaining?
+19) What happens if you return a promise inside .then()?
+20) Difference between Promise.All() and Promise.Allsettled().
+21) What is Async/Await?
+22) How to handle Promise?
+23) What are methods of Promise?
+24) What is Garbage Collection?
+25) Difference between Stack and Heap.
+26) What are dynamic imports?
+27) What is function currying?
+28) Difference between pure and impure function.
+29) What is Prototyping?
+30) What is Prototype Inheritance?
+31) What are Memory Leaks in JS?
+32) What is Debouncing?
+33) What is Throttling?
+34) What is Memoization?
+35) What is Event Delegation?
+36) What is DOM & BOM?
+37) What is Event Bubbling and Event Capturing?
+38) What is Object.Freeze() and Object.Seal()?
+39) What is Event Propagation?
+40) What is Polyfill in JS?
