@@ -1,0 +1,35 @@
+1) What is Relational Database Design?
+2) Explain E-R Model.
+3) What are Design Constraints in DBMS?
+4) Define different Types of Keys in DBMS.
+5) Explain E-R Diagram with example.
+6) What are Weak Entity Sets?
+7) What is Generalization in EER model?
+8) What is Specialization in EER model?
+9) What is Aggregation in EER model?
+10) Why Normalization is needed?
+11) What is Data Redundancy?
+12) What are Anomalies in DBMS?
+13) Explain 1NF with example.
+14) Explain 2NF with example.
+15) Explain 3NF with example.
+16) Explain BCNF with example.
+17) Explain 4NF with example.
+18) What are the Types of SQL?
+19) What is DDL? Give examples.
+20) What is DML? Give examples.
+21) What is DCL? Give examples.
+22) What is TCL? Give examples.
+23) Explain SQL commands: CREATE, INSERT, UPDATE, DELETE, DROP, ALTER, SELECT.
+24) What are SQL Constraints?
+25) What is PRIMARY KEY in SQL?
+26) What is FOREIGN KEY in SQL?
+27) What is UNIQUE constraint in SQL?
+28) What is NOT NULL constraint?
+29) What is CHECK constraint?
+30) What is IN constraint?
+31) What are Aggregate Functions?
+32) Explain SUM(), AVG(), MIN(), MAX(), COUNT().
+33) What are Numeric functions in SQL?
+34) What are Date functions in SQL?
+35) What are String functions in SQL?
