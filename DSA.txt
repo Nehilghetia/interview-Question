@@ -1,0 +1,12 @@
+1) Find Maximum And Minimum In array.
+2) Find the second And Third target element.
+3) Reverse an array.
+4) rotate an array by k position.
+5) Move All zeros to the end.
+6) Remove duplicate from sorted/unsorted array.
+7) Merge Two Sorted Array without Extra Space.
+8) Find Union And Intersection Of two arrays.
+9) find the majority element.(Boyer-Moore Voting Algorithm).
+10) check if a subarray with sum 0 exist.
+11) Maximum subarray sum(Kaden's algorithm)
+12) Subarray with given sum.
