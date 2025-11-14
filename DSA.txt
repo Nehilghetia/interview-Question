@@ -10,3 +10,15 @@
 10) check if a subarray with sum 0 exist.
 11) Maximum subarray sum(Kaden's algorithm)
 12) Subarray with given sum.
+13) Maximum Product Subarray.
+14) Count the number of subarrays with sum = k.
+15) Two Sum (LeetCode).
+16) Three Sum.
+17) Longest Substring With At Most K Distinct Characters.
+18) Search in Rotated Sorted Array.
+19) Find the Missing Number in an Array.
+20) Median of Two Sorted Arrays.
+21) Kth Largest Element.
+22) Kth Smallest Element.
+23) Spiral Order Traversal of Matrix.
+24) Rotate a Matrix by 90° Degree.
