@@ -22,3 +22,14 @@
 22) Kth Smallest Element.
 23) Spiral Order Traversal of Matrix.
 24) Rotate a Matrix by 90° Degree.
+25) check the number is prime number.
+26) check if a number is palindrom.
+27) check if a array is sorted.
+28) find index of target in an array.
+29) print frequency of each element.
+30) reverse a string.(two pointer)
+31) find the missing number in 1 to n.
+32) check if string is anagram.
+33) implement stack using array.
+34) implement queue using array.
+35) return the intersection of 2 array.
