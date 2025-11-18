@@ -33,3 +33,77 @@
 33) implement stack using array.
 34) implement queue using array.
 35) return the intersection of 2 array.
+36) Print Fibonacci Series.
+37) Find nth Fibonacci number.
+38) Count digit in a number.
+39) Check if a given number is Armstrong.
+40) Count positive , negative and zero in array.
+41) Right angle tringle.
+    *
+    * *
+    * * *
+    * * * * 
+
+42) Inverted Right angle tringlr.
+    * * * *
+    * * *
+    * *
+    * 
+
+43) 	  *
+      * * *
+    * * * * *
+  * * * * * * *
+ 
+44)  * * * * * * *
+       * * * * *
+         * * *
+           *
+
+45) Binary Tringle.
+	1
+	0 1
+	1 0 1
+	0 1 0 1	
+	1 0 1 0 1
+
+45) Hollow square pattern.
+	* * * * *
+	*	      *
+	*	      *
+	*	      *
+	* * * * *
+
+46) Hollow pyramic.
+      	*
+      *	  *
+    *       *
+  *           *
+* * * * * * * * *
+
+47) Dimond Pattern 
+      	*
+      * * *
+    * * * * *
+  * * * * * * *
+* * * * * * * * *
+  * * * * * * *
+    * * * * *
+      * * *
+        *
+
+48) Hollow Diamond.
+	      *
+      *   *
+    *       *
+  *           *
+    *       *
+      *   *
+        *
+
+49) Pascal`s Triangle.
+	1
+	1 1
+	1 2 1 
+	1 3 3 1 
+ 	1 4 6 4 1 
